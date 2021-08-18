@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Thatoneguythatcodes
+- 👀 I’m interested in ...
+- 🌱 I’m currently learning basic Javascript, basic python, and advanced lua scripting 
+- 💞️ I’m looking to collaborate on nothing atm
+- 📫 How to reach me: shoot a dm on discord: Halo#4725 
